@@ -1,5 +1,5 @@
 # Frontend Mentor - NFT preview card component
-[ https://mustafaalkhiat.github.io/nft-preview-card-component](url)
+ https://mustafaalkhiat.github.io/nft-preview-card-component
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
